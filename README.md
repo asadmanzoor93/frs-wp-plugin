@@ -1,6 +1,6 @@
 # Finding Right Solution (FRS) Plugin
 
-## Steps 
+## Steps To Configure:
 ```
 Import ACF fields for FRS using acf-export-frs.json
 ```
