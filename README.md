@@ -1,4 +1,4 @@
-# Finding Right Solution (FRS) Plugin
+# Finding Right Solution (FRS) WordPress Plugin
 
 ## Steps To Configure:
 ```
